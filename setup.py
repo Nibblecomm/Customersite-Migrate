@@ -8,7 +8,7 @@ from setuptools import setup
 
 
 setup(
-    name='Unifispot-Migrate',
+    name='Spotiposite-Migrate',
     version='2.0.1',
     url='http://github.com/miguelgrinberg/flask-migrate/',
     license='MIT',
