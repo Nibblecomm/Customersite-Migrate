@@ -12,7 +12,7 @@ down_revision = ${repr(down_revision)}
 
 from alembic import op
 import sqlalchemy as sa
-import unifispot
+import spotiposite
 ${imports if imports else ""}
 
 def upgrade():
